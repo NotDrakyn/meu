@@ -1,0 +1,58 @@
+.caixa2{
+    background: rgb(112, 20, 20);
+    border: 1px solid black;
+    width: 950px;
+    height: 635px;
+    float: left;
+    font-size: 25px;
+    margin-top: -30px;
+}
+#fundao{
+    background-color: rgb(0, 0, 0);
+}
+.oxes{
+    float: left;
+    text-align: left;
+    margin-top: 590px;
+    font-size: 20px;
+    margin-left: -950px;
+}
+.caixa0{
+    background: rgb(0, 0, 0);
+    border: 1px solid black;
+    width: 310px;
+    height: 155px;
+    float: right;
+    font-size: 25px;
+    margin-top: -10px;
+    margin-right: 350px;
+    image-rendering: auto;
+}
+.barriga{
+    text-align: right;
+    float: right;
+    margin-top: 00px;
+    font-size: 9px;
+    margin-right: -520px;
+}
+.barrigo{
+    text-align: right;
+    float: right;
+    margin-top: 40px;
+    font-size: 10px;
+    margin-right: -380px;
+}
+.oxes2{
+    float: left;
+    text-align: left;
+    margin-top: 670px;
+    font-size: 20px;
+    margin-left: -950px;
+}
+.oxes3{
+    float: left;
+    text-align: left;
+    margin-top: 750px;
+    font-size: 20px;
+    margin-left: -1200px;
+}

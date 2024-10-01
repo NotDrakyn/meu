@@ -1,0 +1,101 @@
+.euu{
+    color: rgb(255, 102, 0);
+}
+#fundo{
+    background-color: rgb(34, 153, 30);
+}
+.margem{
+    margin-right: 90px;
+}
+.caixa{
+    background: rgb(5, 116, 1);
+    border: 1px solid black;
+    width: 340px;
+    height: 435px;
+    float: right;
+    font-size: 25px;
+    margin-top: -30px;
+
+}
+.coisa-grande{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 80%;
+    height: 500px;
+    background-color: rgb(34, 153, 30);
+    border: 5px solid black;
+    box-shadow: 1px 8px 16px gold;
+}
+.item{
+    background-color: rgb(34, 153, 30);
+    color: black;
+    padding: 10px;
+    border-radius: 4px;
+    text-align: center;
+    flex: 50%;
+    margin: 3px;
+}
+.coisa{
+    float: center;
+    align-items: center;
+    width: 250px;
+    margin: 9px;
+}
+.texto{
+    text-align: left;
+    font-size: 30px;
+    margin-right: 250px;
+}
+.meio{
+    text-align: center;
+}
+.roda{
+    float: right;
+    margin-top: 1200px;
+    font-size: 20px;
+}
+.roda2{
+    float: bottom;
+    margin-top: 200px;
+    font-size: 20px;
+    margin-bottom: 900px;
+}
+.vua{
+    float: right;
+    margin-top: 15px;
+    font-size: 14px;
+    flex: auto;
+}
+.rodape{
+    background: rgb(5, 116, 1);
+    border: 1px solid black;
+    width: 1450px;
+    height: 435px;
+    float: left;
+    font-size: 25px;
+    margin-right: 2px;
+    text-align: center;
+    margin-top: -30px;
+}
+.cabeça{
+    background: rgb(5, 116, 1);
+    border: 1px solid black;
+    width: 1910px;
+    height: 400px;
+    float: right;
+    font-size: 25px;
+    margin-right: 3px;
+    text-align: center;
+    margin-bottom: 3px;
+}
+.caixa2{
+    background: rgb(5, 116, 1);
+    border: 1px solid black;
+    width: 350px;
+    height: 435px;
+    float: right;
+    font-size: 25px;
+    margin-top: -30px;
+
+}
